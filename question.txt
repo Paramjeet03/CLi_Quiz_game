@@ -1,0 +1,69 @@
+Q: What is the output of 3 + 2 * 2 in Python?
+A) 10
+B) 7
+C) 12
+D) 9
+Answer: B
+
+Q: Who developed the Python language?
+A) Dennis Ritchie
+B) James Gosling
+C) Guido van Rossum
+D) Bjarne Stroustrup
+Answer: C
+
+Q: Which keyword is used to create a function in Python?
+A) def
+B) function
+C) func
+D) lambda
+Answer: A
+
+Q: Which of the following is a mutable data type in Python?
+A) tuple
+B) str
+C) list
+D) int
+Answer: C
+
+Q: What will be the output of print(type([]))?
+A) <class 'dict'>
+B) <class 'list'>
+C) <class 'set'>
+D) <class 'tuple'>
+Answer: B
+
+Q: What is the file extension for Python files?
+A) .py
+B) .pt
+C) .pyt
+D) .p
+Answer: A
+
+Q: Which of these is used to handle exceptions in Python?
+A) try-except
+B) if-else
+C) loop-exit
+D) throw-catch
+Answer: A
+
+Q: What is the index of the first element in a Python list?
+A) 0
+B) 1
+C) -1
+D) depends on list
+Answer: A
+
+Q: Which of the following is not a valid Python keyword?
+A) lambda
+B) yield
+C) switch
+D) global
+Answer: C
+
+Q: Which built-in function returns the length of a list?
+A) count()
+B) length()
+C) len()
+D) size()
+Answer: C
