@@ -47,9 +47,9 @@ class QuizGame:
 
             # Take user input
             user_ans = input(Fore.YELLOW + "Enter your option (A/B/C/D): ").strip().upper()
-
             # Validate user input
             while user_ans not in ['A', 'B', 'C', 'D']:
+                print("Enter valid input :- A,B,C,D")
                 user_ans = input(Fore.RED + "Invalid input. Enter A, B, C, or D: ").strip().upper()
 
             # Check the answer
